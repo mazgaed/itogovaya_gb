@@ -3,3 +3,4 @@ This repository was created to test my skills acquired in the 1st quarter of my 
 Examples:[“Hello”, “2”, “world”, “:-)”] → [“2”, “:-)”]
 [“1234”, “1567”, “-2”, “computer science”] → [“-2”]
 [“Russia”, “Denmark”, “Kazan”] → []
+In this case i set an array and using 2 cycle found rows that are greater than or equal to 3.
