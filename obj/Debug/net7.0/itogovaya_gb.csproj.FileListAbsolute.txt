@@ -1,0 +1,14 @@
+C:\Users\mazga\OneDrive\Рабочий стол\gitska\14\itogovaya_gb\obj\Debug\net7.0\itogovaya_gb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mazga\OneDrive\Рабочий стол\gitska\14\itogovaya_gb\obj\Debug\net7.0\itogovaya_gb.AssemblyInfoInputs.cache
+C:\Users\mazga\OneDrive\Рабочий стол\gitska\14\itogovaya_gb\obj\Debug\net7.0\itogovaya_gb.AssemblyInfo.cs
+C:\Users\mazga\OneDrive\Рабочий стол\gitska\14\itogovaya_gb\obj\Debug\net7.0\itogovaya_gb.csproj.CoreCompileInputs.cache
+C:\Users\mazga\OneDrive\Рабочий стол\gitska\14\itogovaya_gb\bin\Debug\net7.0\itogovaya_gb.exe
+C:\Users\mazga\OneDrive\Рабочий стол\gitska\14\itogovaya_gb\bin\Debug\net7.0\itogovaya_gb.deps.json
+C:\Users\mazga\OneDrive\Рабочий стол\gitska\14\itogovaya_gb\bin\Debug\net7.0\itogovaya_gb.runtimeconfig.json
+C:\Users\mazga\OneDrive\Рабочий стол\gitska\14\itogovaya_gb\bin\Debug\net7.0\itogovaya_gb.dll
+C:\Users\mazga\OneDrive\Рабочий стол\gitska\14\itogovaya_gb\bin\Debug\net7.0\itogovaya_gb.pdb
+C:\Users\mazga\OneDrive\Рабочий стол\gitska\14\itogovaya_gb\obj\Debug\net7.0\itogovaya_gb.dll
+C:\Users\mazga\OneDrive\Рабочий стол\gitska\14\itogovaya_gb\obj\Debug\net7.0\refint\itogovaya_gb.dll
+C:\Users\mazga\OneDrive\Рабочий стол\gitska\14\itogovaya_gb\obj\Debug\net7.0\itogovaya_gb.pdb
+C:\Users\mazga\OneDrive\Рабочий стол\gitska\14\itogovaya_gb\obj\Debug\net7.0\itogovaya_gb.genruntimeconfig.cache
+C:\Users\mazga\OneDrive\Рабочий стол\gitska\14\itogovaya_gb\obj\Debug\net7.0\ref\itogovaya_gb.dll

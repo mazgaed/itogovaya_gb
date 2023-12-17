@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "itogovaya_gb/1.0.0": {
+        "runtime": {
+          "itogovaya_gb.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "itogovaya_gb/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
