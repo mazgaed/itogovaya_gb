@@ -4,3 +4,4 @@ foreach (string s in arr){ // Ищем строки, которые больше
 if(s.Length > 3){
   System.Console.WriteLine(s); // Выводим элементы массива
 }
+}
