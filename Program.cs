@@ -1,2 +1,5 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿string[] arr = { "hello", "world", "^^", ":D", "GeekBrains" }; // Исходный массив
+
+foreach (string s in arr){ // Ищем строки, которые больше 3 символов
+if(s.Length > 3){
+}
