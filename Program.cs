@@ -5,4 +5,3 @@ if(s.Length > 3){
   System.Console.WriteLine(s); // Выводим элементы массива
 }
 }
-
